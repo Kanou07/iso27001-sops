@@ -1,6 +1,6 @@
 {
-  "buildCommand": "pnpm build",
-  "installCommand": "pnpm install",
+  "buildCommand": "npm build",
+  "installCommand": "npm install",
   "outputDirectory": "dist",
   "framework": "vite",
   "env": {
